@@ -46,7 +46,7 @@ A place for all guides and documentation required for contributor, teaching assi
       - Handout Images 
    - How to Create Slides
  
- - Invoicing with Freshbooks
+- Invoicing with Freshbooks
    - Managing your Freshbooks account
    - Timing Tasks
    - Invoicing us

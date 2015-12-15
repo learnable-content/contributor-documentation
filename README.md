@@ -37,12 +37,13 @@ A place for all guides and documentation required for contributor, teaching assi
 - Roles as a Course Helper
    - How to work on Captions
    - How to Work on Screencast Posters
+   - How to Set Up a Screencast Series Repo
+   - Trello for Screencasts 
    - How to Set Up a Course Repo
    - Trello for Course
    - How to work on Chapter Markers
    - How to create Handouts
       - Handout Images 
    - How to Create Slides
-   - How to Set Up a Screencast Series Repo
-   - Trello for Screencasts 
+  
 - Invoicing with Freshbooks

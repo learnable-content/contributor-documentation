@@ -33,6 +33,7 @@ A place for all guides and documentation required for contributor, teaching assi
 # Teaching Assistants and Course Helpers
 - Role as a TA
     - How to respond to Conversations
+    - Trello for Teaching Assistants
 - Roles as a Course Helper
    - How to work on Captions
    - How to Work on Screencast Posters

@@ -7,7 +7,7 @@ A place for all guides and documentation required for contributor, teaching assi
 - Screencasts
    - What are they?
    - What’s our process
-   -  Trello for Screencasts
+   -  Trello
    - Sending videos 
 - Courses
    - What are they?
@@ -38,9 +38,11 @@ A place for all guides and documentation required for contributor, teaching assi
    - How to work on Captions
    - How to Work on Screencast Posters
    - How to Set Up a Course Repo
+   - Trello for Course
    - How to work on Chapter Markers
    - How to create Handouts
       - Handout Images 
    - How to Create Slides
    - How to Set Up a Screencast Series Repo
+   - Trello for Screencasts 
 - Invoicing with Freshbooks

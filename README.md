@@ -27,6 +27,7 @@ A place for all guides and documentation required for contributor, teaching assi
    - How to 
 - Community
   - Slack
+
 # Teaching Assistants and Course Helpers
 - Role as a TA
 - Roles as a Course Helper

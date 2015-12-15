@@ -33,7 +33,6 @@ A place for all guides and documentation required for contributor, teaching assi
 # Teaching Assistants and Course Helpers
 - Role as a TA
     - How to respond to Conversations
-    - Invoicing with Freshbooks
 - Roles as a Course Helper
    - How to work on Captions
    - How to work on Chapter Markers
@@ -41,3 +40,4 @@ A place for all guides and documentation required for contributor, teaching assi
       - Handout Images 
    - How to Set Up a Course Repo
    - How to Set Up a Screencast Series Repo
+- Invoicing with Freshbooks

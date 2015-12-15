@@ -26,6 +26,7 @@ A place for all guides and documentation required for contributor, teaching assi
    - Reviews
 - Technical Reviews
    - How to 
+- Invoicing 
 - Community
   - Slack
 

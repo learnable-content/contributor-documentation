@@ -7,7 +7,7 @@ A place for all guides and documentation required for contributor, teaching assi
 - Screencasts
    - What are they?
    - What’s our process
-   -  Trello
+   -  Trello for Screencasts
    - Sending videos 
 - Courses
    - What are they?

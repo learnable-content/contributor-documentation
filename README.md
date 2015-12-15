@@ -7,5 +7,6 @@ A place for all guides and documentation required for contributor, teaching assi
 - Video production
 - Code Repositories
    - Reviews- Reviews
+
 # Teaching Assistants and Course Helpers
   -

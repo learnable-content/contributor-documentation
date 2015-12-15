@@ -35,6 +35,7 @@ A place for all guides and documentation required for contributor, teaching assi
     - How to respond to Conversations
 - Roles as a Course Helper
    - How to work on Captions
+   - How to Work on Screencast Posters
    - How to Set Up a Course Repo
    - How to work on Chapter Markers
    - How to create Handouts

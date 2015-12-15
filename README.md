@@ -3,6 +3,7 @@ A place for all guides and documentation required for contributor, teaching assi
 
 # Contributors
 - What we’re like
+- Pitching an Idea
 - Screencasts
    - What are they?
    - What’s our process

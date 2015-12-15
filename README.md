@@ -29,6 +29,7 @@ A place for all guides and documentation required for contributor, teaching assi
 - Invoicing 
 - Community
   - Slack
+- Documents list
 
 # Teaching Assistants and Course Helpers
 - Role as a TA

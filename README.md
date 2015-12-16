@@ -1,9 +1,9 @@
-# contributor-documentation
+# Contributor Documentation
 A place for all guides and documentation required for contributor, teaching assistants and course helpers.
 
 # Contributors
 - What we’re like
-- Pitching an Idea
+- Pitching an idea
 - Screencasts
    - What are they?
    - What’s our process
@@ -24,30 +24,29 @@ A place for all guides and documentation required for contributor, teaching assi
 - Code Repositories
    - Setting up
    - Reviews
-- Technical Reviews
+- Technical reviews
    - How to 
-- Invoicing 
+- Invoicing us
 - Community
   - Slack
 - Documents
 
 # Teaching Assistants and Course Helpers
-- Role as a TA
+- Role as a Teaching Assistant (TA)
     - How to respond to Conversations
-    - Trello for Teaching Assistants
+    - Trello for TAs
 - Roles as a Course Helper
-   - How to work on Captions
-   - How to Work on Screencast Posters
-   - How to Set Up a Screencast Series Repo
-   - Trello for Screencasts 
-   - How to Set Up a Course Repo
-   - Trello for Course
-   - How to work on Chapter Markers
-   - How to create Handouts
-      - Handout Images 
-   - How to Create Slides
- 
+   - Trello for screencasts
+   - Trello for courses 
+   - How to work on screencast posters
+   - How to set up a screencast series repo
+   - How to set up a course repo
+   - How to work on captions
+   - How to work on chapter markers
+   - How to create handouts
+      - Handout images 
+   - How to create slides
 - Invoicing with Freshbooks
    - Managing your Freshbooks account
-   - Timing Tasks
+   - Timing tasks
    - Invoicing us

@@ -11,9 +11,9 @@ Angela and the SitePoint team.
 - What we’re like
 - Pitching an idea
 - Screencasts
-   - What are they?
+   - [What are they?](https://github.com/learnable-content/contributor-documentation/blob/master/Contributors/Screencasts.md)
    - What’s our process
-   -  Trello
+   - Trello
    - Sending videos 
 - Courses
    - What are they?

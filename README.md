@@ -1,5 +1,11 @@
 # Contributor Documentation
-A place for all guides and documentation required for contributor, teaching assistants and course helpers.
+A place for all information for contributor, teaching assistants and course helpers. If you have a question about the process involved in any area within SitePoint Premium, you'll find it here.
+
+This is a work in progress, so feel free to jump in and make suggestions or even better pull requests. 
+
+Thanks,
+
+Angela and the SitePoint team.
 
 # Contributors
 - What we’re like

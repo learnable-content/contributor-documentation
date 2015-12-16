@@ -39,17 +39,17 @@ Angela and the SitePoint team.
 
 # Teaching Assistants and Course Helpers
 - Role as a Teaching Assistant (TA)
-    - How to respond to Conversations
+    - [How to respond to Conversations](https://github.com/learnable-content/contributor-documentation/blob/master/Course%20Helpers%20%26%20TA's/Conversations.md)
     - Trello for TAs
 - Roles as a Course Helper
    - Trello for screencasts
    - Trello for courses 
    - How to work on screencast posters
-   - How to set up a screencast series repo
+   - [How to set up a screencast series repository](https://github.com/learnable-content/contributor-documentation/blob/master/Course%20Helpers%20%26%20TA's/Repositories.md)
    - How to set up a course repo
-   - How to work on captions
+   - [How to work on captions](https://github.com/learnable-content/contributor-documentation/blob/master/Course%20Helpers%20%26%20TA's/Captions.md)
    - How to work on chapter markers
-   - How to create handouts
+   - [How to create handouts](https://github.com/learnable-content/contributor-documentation/blob/master/Course%20Helpers%20%26%20TA's/Handouts.md)
       - Handout images 
    - How to create slides
 - Invoicing with Freshbooks

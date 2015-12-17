@@ -7,7 +7,7 @@ Thanks,
 
 Angela and the SitePoint team.
 
-# Contributor
+# Contributors
 - What we’re like
 - Pitching an idea
 - Screencasts
@@ -22,9 +22,8 @@ Angela and the SitePoint team.
    - Quizzes
    -  Handouts
    - Additional videos
-- Video production
-   - Equipment
-   - Set up
+- Recording videos
+   -[Recording guide](https://github.com/learnable-content/contributor-documentation/blob/master/Contributors/Recording.md)
    - Sample video
    - How to send
 - Code Repositories

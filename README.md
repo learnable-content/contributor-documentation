@@ -23,7 +23,7 @@ Angela and the SitePoint team.
    -  Handouts
    - Additional videos
 - Recording videos
-   -[Recording guide](https://github.com/learnable-content/contributor-documentation/blob/master/Contributors/Recording.md)
+   - [Recording guide](https://github.com/learnable-content/contributor-documentation/blob/master/Contributors/Recording.md)
    - Sample video
    - How to send
 - Code Repositories

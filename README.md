@@ -7,7 +7,7 @@ Thanks,
 
 Angela and the SitePoint team.
 
-# Contributors
+# Contributor
 - What we’re like
 - Pitching an idea
 - Screencasts

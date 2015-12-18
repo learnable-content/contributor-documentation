@@ -12,6 +12,7 @@ Angela and the SitePoint team.
 - Pitching an idea
 - Screencasts
    - [What are they?](https://github.com/learnable-content/contributor-documentation/blob/master/Contributors/Screencasts.md)
+   - [Screencast format](https://github.com/learnable-content/contributor-documentation/blob/master/Contributors/Format.md)
    - [What’s our process](https://github.com/learnable-content/contributor-documentation/blob/master/Contributors/Process.md)
    - Trello
 - Courses

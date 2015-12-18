@@ -8,7 +8,9 @@ What you should include in your sample:
 - sample code via text editor or GUI that will be used in your screencast 
 
 Here's an example of a sample video:
-![Sample Video](https://digitalpigeon.com/shr/7TiGMKVBEeWORgbtG5M1VQ/N4ot3gzp3Y53Yx0s8yXFew?aid=Z39SkBMBEeSTKAYBQwrEJw)
+[![Sample Video](Images/sample-video-poster)](https://digitalpigeon.com/shr/7TiGMKVBEeWORgbtG5M1VQ/N4ot3gzp3Y53Yx0s8yXFew?aid=Z39SkBMBEeSTKAYBQwrEJw)
 
 Here's an example of a sample video:
 [![Sample video example](Images/sample-video-poster)](Images/sitepoint-test.mp4)
+
+[![Everything Is AWESOME](http://i.imgur.com/Ot5DWAW.png)](https://youtu.be/StTqXEQ2l-Y?t=35s "Everything Is AWESOME")

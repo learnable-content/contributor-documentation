@@ -1,4 +1,4 @@
-#Recording 
+#Recording Guide
 Great! You're ready to get your first video recorded. We've put together a little guide to help you get started.
 ##Microphones
 Let's talk about equipment. 

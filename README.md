@@ -12,20 +12,19 @@ Angela and the SitePoint team.
 - Pitching an idea
 - Screencasts
    - [What are they?](https://github.com/learnable-content/contributor-documentation/blob/master/Contributors/Screencasts.md)
-   - What’s our process
+   - [What’s our process](https://github.com/learnable-content/contributor-documentation/blob/master/Contributors/Process.md)
    - Trello
-   - Sending videos 
 - Courses
    - What are they?
    - What’s our process?
    - Trello
    - Quizzes
-   -  Handouts
+   - Handouts
    - Additional videos
 - Recording videos
    - [Recording guide](https://github.com/learnable-content/contributor-documentation/blob/master/Contributors/Recording.md)
    - Sample video
-   - How to send
+   - Sending videos
 - Code Repositories
    - Setting up
    - Reviews

@@ -9,7 +9,7 @@ Angela and the SitePoint team.
 
 # Contributors
 - What we’re like
-- Pitching an idea
+- [Pitching an idea](https://github.com/learnable-content/contributor-documentation/blob/master/Contributors/Pitch.md)
 - Screencasts
    - [What are they?](https://github.com/learnable-content/contributor-documentation/blob/master/Contributors/Screencasts.md)
    - [Screencast format](https://github.com/learnable-content/contributor-documentation/blob/master/Contributors/Format.md)
@@ -24,8 +24,8 @@ Angela and the SitePoint team.
    - Additional videos
 - Recording videos
    - [Recording guide](https://github.com/learnable-content/contributor-documentation/blob/master/Contributors/Recording.md)
-   - Sample video
-   - Sending videos
+   - [Sample video](https://github.com/learnable-content/contributor-documentation/blob/master/Contributors/Sample.md)
+   - [Sending videos](https://github.com/learnable-content/contributor-documentation/blob/master/Contributors/SendingVideos.md)
 - Code Repositories
    - Setting up
    - Reviews

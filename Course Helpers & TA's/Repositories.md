@@ -12,5 +12,27 @@ Go to the SitePoint Premium repository on Github — https://github.com/learnabl
 
 
 * Initialize the Repo by the Github.com, commandline or Git Application (i.e. Source Tree)
-	* Create a Readme.md for Master Branch
-	* Create your first Branch
+* **Create a Readme.md for Master Branch**
+  Use a text editor or the editor from Github to create the readme.md. ( Note. All readme's or text at Github will use Markdown so make sure you are familiar  with Markdown (https://help.github.com/articles/markdown-basics/)
+  ![Creating a ReadME](repo-screenshot-images/create_readme.png)
+
+  After the Readme is created and you have committed it to the repo it will show on GitHub like this.
+  ![ReadMe Created](repo-screenshot-images/readme-created.png)
+
+
+#### Create Your first Branch
+
+How to create a branch is fairly easy you can use the commandline, Github.com or even a  Git Application to do this.
+
+At Github.com you first want to click on Branch: Master button (it will be a dropdown)
+
+![Click On Master](repo-screenshot-images/click_me.png)
+
+
+After clicking on Branch: Master button a dropdown like this will appear.
+
+
+
+![Dropdown](repo-screenshot-images/dropdown.png)
+
+In the "find"

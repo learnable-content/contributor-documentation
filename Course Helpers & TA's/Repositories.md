@@ -41,3 +41,6 @@ In the "Find or create branch" box you can type the name of the branch.
 After you typed the new name of the branch and hit enter
 You will immediately be taken to your newly created branch
 ![Branch Created](repo-screenshot-images/branch-created.png)
+
+
+and that's how you create a screencast repo!

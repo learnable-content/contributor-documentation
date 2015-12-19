@@ -39,5 +39,5 @@ In the "Find or create branch" box you can type the name of the branch.
 ![Creating a Branch](repo-screenshot-images/branch.png)
 
 After you typed the new name of the branch and hit enter
-You will immediately be taken to newly created branch
+You will immediately be taken to your newly created branch
 ![Branch Created](repo-screenshot-images/branch-created.png)

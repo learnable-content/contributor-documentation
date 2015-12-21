@@ -43,7 +43,7 @@ You will immediately be taken to your newly created branch
 ![Branch Created](repo-screenshot-images/branch-created.png)
 
 #### What goes into the branch
-After you have the branch created each screencast will have just code samples that the author will provide. *Angela usually provides a link to the author's repo where you can download or fork the repo to get the code samples* These files will be  uploaded/commited to the SitePoint Premium screencast repo.
+After you have the branch created each screencast will have just code samples that the author will provide. *Angela will  provide a link to the author's repo where you can download or fork the repo to get the code samples.* These files will be  uploaded/commited to the SitePoint Premium screencast repo.
 
 
 

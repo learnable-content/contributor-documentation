@@ -16,7 +16,7 @@ Go to the SitePoint Premium repository on Github — https://github.com/learnabl
   Use a text editor or the editor from Github to create the readme.md. ( Note. All readme's or text at Github will use Markdown so make sure you are familiar  with Markdown (https://help.github.com/articles/markdown-basics/)
   ![Creating a ReadME](repo-screenshot-images/create_readme.png)
 
-  After the Readme is created and you have committed it to the repo it will show on GitHub like this.
+  After the Readme is created and you have committed it to the repo it will show on Github like this.
   ![ReadMe Created](repo-screenshot-images/readme-created.png)
 
 
@@ -41,6 +41,10 @@ In the "Find or create branch" box you can type the name of the branch.
 After you typed the new name of the branch and hit enter
 You will immediately be taken to your newly created branch
 ![Branch Created](repo-screenshot-images/branch-created.png)
+
+#### What goes into the branch
+After you have the branch created each screencast will have just code samples that the author will provide. *Angela usually provides a link to the author's repo where you can download or fork the repo to get the code samples so you can upload/commit it to the SitePoint Premium screencast repo.
+
 
 
 and that's how you create a screencast repo!

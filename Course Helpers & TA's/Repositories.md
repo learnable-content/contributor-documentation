@@ -1,17 +1,17 @@
 #Repositories
 ##How to create a screencast repository
 
-#### Creating the Repo
+#### Creating the repository
 Go to the SitePoint Premium repository on Github — https://github.com/learnable-content. You may need permission to create the repository, if this is the case contact Angela. *Note:  if you are creating the Github repository from scratch then name it with the persons name or Collection name (i.e. Hathy-screencasts or RSpec-collection)*
 
 
 ![Creating a Repo](repo-screenshot-images/creating-the_repo.png)
 
-#### After the Repo is Created
+#### After the repository is created
 ![Repo Created](repo-screenshot-images/repo-created.png)
 
 
-* Initialize the Repo by the Github.com, commandline or Git Application (i.e. Source Tree)
+* Initialize the Repo by the Github.com, commandline or Git application (i.e. Source Tree)
 * **Create a Readme.md for Master Branch**
   Use a text editor or the editor from Github to create the readme.md. ( Note. All readme's or text at Github will use Markdown so make sure you are familiar  with Markdown (https://help.github.com/articles/markdown-basics/)
   ![Creating a ReadME](repo-screenshot-images/create_readme.png)
@@ -20,11 +20,11 @@ Go to the SitePoint Premium repository on Github — https://github.com/learnabl
   ![ReadMe Created](repo-screenshot-images/readme-created.png)
 
 
-#### Create Your first Branch
+#### Create your first branch
 
-How to create a branch is fairly easy you can use the commandline, Github.com or even a  Git Application to do this.
+How to create a branch is fairly easy you can use the commandline, Github.com or even a Git application to do this.
 
-At Github.com you first want to click on Branch: Master button (it will be a dropdown)
+At Github.com you first want to click on Branch:Master button (it will be a dropdown)
 
 ![Click On Master](repo-screenshot-images/click_me.png)
 

@@ -10,7 +10,7 @@ You can sign up for an account at http://www.freshbooks.com/signup.
 You will be given a secret url that allow you to login to your account. Just type that url which will be http://whatever-you-choose.freshbooks.com.
 
 #### Profile
-After logging fill out your Company Profile. Access your profile by going to Settings then Company.
+After logging in fill out your Company Profile. Access your profile by going to Settings then Company.
 Fill out all the information there as it will be used for invoicing, emails, etc.
 
 

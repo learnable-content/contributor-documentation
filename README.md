@@ -17,7 +17,7 @@ Angela and the SitePoint team.
    - [Trello](https://github.com/learnable-content/contributor-documentation/blob/master/Contributors/ScreencastTrello.md)
 - Courses
    - What are they?
-   - What’s our process?
+   - [What’s our process?](https://github.com/learnable-content/contributor-documentation/blob/master/Contributors/CourseProcess.md)
    - Trello
    - Quizzes
    - Handouts

@@ -53,5 +53,5 @@ Angela and the SitePoint team.
    - How to create slides
 - Invoicing with Freshbooks
    - Managing your Freshbooks account
-   - Timing tasks
+   - [Timing tasks](https://github.com/learnable-content/contributor-documentation/blob/master/Course%20Helpers%20%26%20TA's/Timingtasks.md)
    - Invoicing us

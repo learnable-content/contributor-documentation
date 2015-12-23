@@ -8,3 +8,5 @@ Feel free to jump into any conversation and connect with any other member.
 If you are working on screencast, you'll be invited to join the *short-videos* private group.
 
 See you there!
+
+![SitePoint Contributors Slack Team](Images/Slack.png)

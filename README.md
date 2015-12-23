@@ -16,7 +16,7 @@ Angela and the SitePoint team.
    - [What’s our process](https://github.com/learnable-content/contributor-documentation/blob/master/Contributors/Process.md)
    - [Trello](https://github.com/learnable-content/contributor-documentation/blob/master/Contributors/ScreencastTrello.md)
 - Courses
-   - What are they?
+   - [What are they?](https://github.com/learnable-content/contributor-documentation/blob/master/Contributors/Courses.md)
    - [What’s our process?](https://github.com/learnable-content/contributor-documentation/blob/master/Contributors/CourseProcess.md)
    - Trello
    - Quizzes
@@ -38,7 +38,7 @@ Angela and the SitePoint team.
 
 # Teaching Assistants and Course Helpers
 - Role as a Teaching Assistant (TA)
-    - [How to respond to Conversations](https://github.com/learnable-content/contributor-documentation/blob/master/Course%20Helpers%20%26%20TA's/Conversations.md)
+    - [How to respond to conversations](https://github.com/learnable-content/contributor-documentation/blob/master/Course%20Helpers%20%26%20TA's/Conversations.md)
     - Trello for TAs
 - Roles as a Course Helper
    - Trello for screencasts

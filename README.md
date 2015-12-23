@@ -31,7 +31,7 @@ Angela and the SitePoint team.
    - Reviews
 - Technical reviews
    - How to 
-- Invoicing us
+- [Invoicing us](xhttps://github.com/learnable-content/contributor-documentation/blob/master/Contributors/Invoicing.md)
 - Community
   - Slack
 - Documents

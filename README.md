@@ -33,7 +33,7 @@ Angela and the SitePoint team.
    - How to 
 - [Invoicing us](https://github.com/learnable-content/contributor-documentation/blob/master/Contributors/Invoicing.md)
 - Community
-  - Slack
+  - [Slack](https://github.com/learnable-content/contributor-documentation/blob/master/Contributors/Slack.md)
 - Documents
 
 # Teaching Assistants and Course Helpers

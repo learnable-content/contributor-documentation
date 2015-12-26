@@ -45,7 +45,7 @@ Angela and the SitePoint team.
    - Trello for courses 
    - How to work on screencast posters
    - [How to set up a screencast series repository](https://github.com/learnable-content/contributor-documentation/blob/master/Course%20Helpers%20%26%20TA's/Repositories.md)
-   - How to set up a course repo
+   - [How to set up a course repo](https://github.com/learnable-content/contributor-documentation/blob/master/Course%20Helpers%20%26%20TA's/Course-Repositories.md)
    - [How to work on captions](https://github.com/learnable-content/contributor-documentation/blob/master/Course%20Helpers%20%26%20TA's/Captions.md)
    - How to work on chapter markers
    - [How to create handouts](https://github.com/learnable-content/contributor-documentation/blob/master/Course%20Helpers%20%26%20TA's/Handouts.md)

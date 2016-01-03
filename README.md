@@ -49,7 +49,7 @@ Angela and the SitePoint team.
    - [How to work on captions](https://github.com/learnable-content/contributor-documentation/blob/master/Course%20Helpers%20%26%20TA's/Captions.md)
    - How to work on chapter markers
    - [How to create handouts](https://github.com/learnable-content/contributor-documentation/blob/master/Course%20Helpers%20%26%20TA's/Handouts.md)
-      - Handout images 
+      - [Handout images](https://github.com/learnable-content/contributor-documentation/blob/master/Course%20Helpers%20%26%20TA's/Hanout-images.md) 
    - How to create slides
 - Invoicing with Freshbooks
    - [Managing your Freshbooks account] (https://github.com/learnable-content/contributor-documentation/blob/master/Course%20Helpers%20%26%20TA's/Managing_Freshbooks.md)

@@ -20,7 +20,7 @@ Angela and the SitePoint team.
    - [What’s our process?](https://github.com/learnable-content/contributor-documentation/blob/master/Contributors/CourseProcess.md)
    - Trello
    - [Quizzes](https://github.com/learnable-content/contributor-documentation/blob/master/Contributors/Quizzes.md)
-   - Handouts
+   - [Handouts](https://github.com/learnable-content/contributor-documentation/blob/master/Contributors/Handouts.md)
    - Additional videos
 - Recording videos
    - [Recording guide](https://github.com/learnable-content/contributor-documentation/blob/master/Contributors/Recording.md)

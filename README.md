@@ -21,7 +21,7 @@ Angela and the SitePoint team.
    - Trello
    - [Quizzes](https://github.com/learnable-content/contributor-documentation/blob/master/Contributors/Quizzes.md)
    - [Handouts](https://github.com/learnable-content/contributor-documentation/blob/master/Contributors/Handouts.md)
-   - Additional videos
+   - [Additional videos](https://github.com/learnable-content/contributor-documentation/blob/master/Contributors/Additional-Videos.md)
 - Recording videos
    - [Recording guide](https://github.com/learnable-content/contributor-documentation/blob/master/Contributors/Recording.md)
    - [Sample video](https://github.com/learnable-content/contributor-documentation/blob/master/Contributors/Sample.md)

@@ -11,13 +11,17 @@ We create course quizzes for you using Sit the Test system. What we need from yo
 Sit the Test allows you to create a few different types of quiz questions. These are:
 
 - **True/False**
+
 ![True/false](Images/true-false.png)
 - **Multiple choice**
+
 ![Multiple choice](Images/multiple-choice.png)
 - **Fill in the blank (text)**
+
 ![Fill in the blank](Images/fill-the-gap.png)
 - **Image based**
-![Image](Images/Images-quiz.png)
+
+![Image](Images/images-quiz.png)
 
 ##How many questions and quizzes
 

@@ -8,9 +8,11 @@ Yes, there are a couple of other videos we need from you aside from the course v
 
 ##What are these videos?
 ###Sales
-This is an quick 40 second video that introduces and slightly pitches the course prior to a student enrolling into the course. This is where you tell them what this course is about, how it will run and what they will learn. It should be casual and informative, and try to avoid making it sounding like a sales pitch.
+This is an quick 1 minute video that introduces and pitches the course prior to a student enrolling into the course. This is where you tell them what this course is about, how it will run and what they will learn. It should be casual and informative, and try to avoid making it sounding like a sales pitch.
 
-An example of a good Sales video is - 
+Here's an example of a good [Sales video](https://d3rj1gznkm47xj.cloudfront.net/2d87156c632039a218eb07a6b252a5a4.mp4). 
+
+_Note:_ This example does go for longer than 1 minute, but yours doesn't have to.
 
 ###Introduction
 The student has enrolled, now you can welcome them to the course and give them any further details they may need prior to starting.
@@ -28,4 +30,5 @@ What we need from you is:
 - one 10 second video snippet introducing the lesson, what you'll learn in this video and why it's awesome. 
 - another 5 - 10 second video thanking the viewer for watching and also mentioning that this is one video from your latest course [enter course name] on SitePoint Premium.
 
+Here's an example [promotional video and article](http://www.sitepoint.com/video-your-first-backbone-js-model/) post on SitePoint.
 Bundle that up for me and I'll get it ready for publishing and promoting.

@@ -51,7 +51,7 @@ Angela and the SitePoint team.
    - [How to create handouts](https://github.com/learnable-content/contributor-documentation/blob/master/Course%20Helpers%20%26%20TA's/Handouts.md)
       - [Handout images](https://github.com/learnable-content/contributor-documentation/blob/master/Course%20Helpers%20%26%20TA's/Hanout-images.md) 
    - How to create slides
-- Invoicing with Freshbooks
+- [Invoicing with Freshbooks](https://github.com/learnable-content/contributor-documentation/blob/master/Course%20Helpers%20%26%20TA's/Invoicing%20with%20Freshbooks.md)
    - [Managing your Freshbooks account] (https://github.com/learnable-content/contributor-documentation/blob/master/Course%20Helpers%20%26%20TA's/Managing_Freshbooks.md)
    - [Timing tasks](https://github.com/learnable-content/contributor-documentation/blob/master/Course%20Helpers%20%26%20TA's/Timingtasks.md)
    - [Invoicing us](https://github.com/learnable-content/contributor-documentation/blob/master/Course%20Helpers%20%26%20TA's/Invoicing-Us.md)

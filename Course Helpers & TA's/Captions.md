@@ -1,10 +1,10 @@
 # How to Edit and Submit Video Captions
 
-As part of the work on SitePoint Premium courses, the individual screencast videos are sent off to a service to be captioned. Those videos, and the captions, are then returned to us, and the option is there for us to wtch them, and to edit the captions ourselves.
+As part of the work on SitePoint Premium courses, the individual screencast videos are sent off to a service to be captioned. Those videos, and the captions, are then returned to us, and the option is there for us to watch/listen to them, and to review and edit the captions ourselves.
 
 ## How Cielo 24 Works
 
-Cielo 24 is a service that allows us to view each video alongside its returned captions. In the SitePoint Cielo24 Portfolio, you can see a list of all of the caption jobs that have recently been submitted or completed.
+Cielo 24 is a service that allows us to view each video alongside its returned captions. In the [SitePoint Cielo24 Portfolio](https://portfolio.cielo24.com/portfolio), you can see a list of all of the caption jobs that have recently been submitted or completed.
 
 ![Cielo 24 Portfolio](repo-screenshot-images/cielo_1.png)
 

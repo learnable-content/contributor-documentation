@@ -11,7 +11,7 @@ You can download a trial of Sketch at https://www.sketchapp.com/ *_Note: This ap
 
 
 ##Working with Sketch
-1. Next is to download the template file. You can download the template file here.
+1. Next is to download the template file. You can download the template file [here](repo-screenshot-images/SP Premium Handouts_new.sketch).
 
 2. To open up Sketch Click on the orange diamond in the dock.
 
@@ -19,4 +19,6 @@ You can download a trial of Sketch at https://www.sketchapp.com/ *_Note: This ap
 
 4. Next Open the document SP Premium Handouts_new.sketch file
 
-5. Once you have the file open
+5. Once you have the file open look at the left of the screen
+
+	

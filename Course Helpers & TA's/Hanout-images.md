@@ -17,8 +17,20 @@ You can download a trial of Sketch at https://www.sketchapp.com/ *_Note: This ap
 
 ![Sketch](repo-screenshot-images/sketch-open.png)
 
-4. Next Open the document SP Premium Handouts_new.sketch file
+
+##Creating the handout image
+
+1. Next Open the document SP Premium Handouts_new.sketch file
 ![Sketch](repo-screenshot-images/file-open.png)
-5. Once you have the file open look at the left of the screen
+
+2. Once you have the file open look at the left of the screen, you will have Introduction to JavaScript as first option. You can use this course as a template on each handout file is suppose to look.
+
+![Sketch](repo-screenshot-images/left-screen.png)\
+
+##Steps to create a handout image
+
+1.
+
+
 
 	

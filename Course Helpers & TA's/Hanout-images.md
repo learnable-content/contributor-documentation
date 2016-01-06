@@ -49,11 +49,12 @@ You can download a trial of Sketch at https://www.sketchapp.com/ *_Note: This ap
 When ready to say the file you go to File> Save. Then you are ready to export. Highlight each lesson file on the left as shown in the example.
 ![Sketch](repo-screenshot-images/highlight.png)
 Then on the  bottom right you see an export screen. Just hit export. **_Note Be sure to keep the size at 2x. We want the size to be 1190 width 260 height.
+
 ![Sketch](repo-screenshot-images/export.png)
 
 
 ##Example of a finished handout image
-![Sketch](repo-screenshot-images/1.1.png)
+![Sketch](repo-screenshot-images/1.1.jpg)
 
 
 

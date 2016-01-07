@@ -27,8 +27,8 @@ Angela and the SitePoint team.
    - [Sample video](https://github.com/learnable-content/contributor-documentation/blob/master/Contributors/Sample.md)
    - [Sending videos](https://github.com/learnable-content/contributor-documentation/blob/master/Contributors/SendingVideos.md)
 - Code Repositories
-   - Setting up
-   - Reviews
+   - Screencast Repositories
+   - Courses Repositories
 - Technical reviews
    - How to 
 - [Invoicing us](https://github.com/learnable-content/contributor-documentation/blob/master/Contributors/Invoicing.md)

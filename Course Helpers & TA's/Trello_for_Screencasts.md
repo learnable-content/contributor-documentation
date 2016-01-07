@@ -8,11 +8,11 @@ There are several lists of a more organizational type. Topics up for grabs, Coll
 
 ## Videos
 
-Cards for videos begin to really matter for Course Helper work when they arrive in the Up Next list. There, the screencast is taking shape, the description may be added (and may not yet). Once the cards are Ready for Edit, they are ready to have the videos sent off for captioning, images made, and repositories created for any code samples they require. Typically, the cards are a place for SitePoint staff and the contributors to interact. When a task requires actions from a course helper, they will usually be tagged with an @mention. 
+Cards for videos begin to really matter for Course Helper work when they arrive in the Up Next list. There, the screencast is taking shape, the description may be added (and may not yet). Once the cards are Ready for Edit, they are ready to have the videos sent off for captioning, [images must be https://github.com/learnable-content/contributor-documentation/blob/master/Course%20Helpers%20&%20TA's/Trello_for_Screencasts.mdmade](https://github.com/learnable-content/contributor-documentation/blob/master/Course%20Helpers%20&%20TA's/Screencast_posters.md), and [repositories must be created](https://github.com/learnable-content/contributor-documentation/blob/master/Course%20Helpers%20&%20TA's/Repositories.md) for any code samples they require. Typically, the cards are a place for SitePoint staff and the contributors to interact. When a task requires actions from a course helper, they will usually be tagged with an @mention. 
 
 ## Post Production
 
-Finally, videos arrive in post production. Here, much as in the other lists, @mentioned course helpers will review captions, and upload screencast images, posters, and captions to videos on SitePoint's admin area. Additionally, course helpers can also be asked to enhance descriptions for videos, or in some cases, write them entirely.
+Finally, videos arrive in post production. Here, much as in the other lists, @mentioned course helpers will [review captions](https://github.com/learnable-content/contributor-documentation/blob/master/Course%20Helpers%20&%20TA's/Captions.md), and upload screencast images, posters, and captions to videos on SitePoint's admin area. Additionally, course helpers can also be asked to enhance descriptions for videos, or in some cases, write them entirely.
 
 ## Ready to Launch and Live
 

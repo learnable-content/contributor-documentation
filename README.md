@@ -42,7 +42,7 @@ Angela and the SitePoint team.
     - Trello for TAs
 - Roles as a Course Helper
    - Trello for screencasts
-   - Trello for courses 
+   - [Trello for courses](https://github.com/learnable-content/contributor-documentation/blob/master/Course%20Helpers%20%26%20TA's/Trello_for_courses.md)
    - [How to work on screencast posters](https://github.com/learnable-content/contributor-documentation/blob/master/Course%20Helpers%20%26%20TA's/Screencast_posters.md)
    - [How to set up a screencast series repository](https://github.com/learnable-content/contributor-documentation/blob/master/Course%20Helpers%20%26%20TA's/Repositories.md)
    - [How to set up a course repo](https://github.com/learnable-content/contributor-documentation/blob/master/Course%20Helpers%20%26%20TA's/Course-Repositories.md)

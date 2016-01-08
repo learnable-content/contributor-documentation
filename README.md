@@ -32,8 +32,7 @@ Angela and the SitePoint team.
 - [Technical reviews](https://github.com/learnable-content/contributor-documentation/blob/master/Contributors/Review.md)
    - [How to](https://github.com/learnable-content/contributor-documentation/blob/master/Contributors/Review-how-to.md) 
 - [Invoicing us](https://github.com/learnable-content/contributor-documentation/blob/master/Contributors/Invoicing.md)
-- Community
-  - [Slack](https://github.com/learnable-content/contributor-documentation/blob/master/Contributors/Slack.md)
+- [Community on Slack](https://github.com/learnable-content/contributor-documentation/blob/master/Contributors/Slack.md)
 - Documents
 
 # Teaching Assistants and Course Helpers

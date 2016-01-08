@@ -7,9 +7,12 @@ How? Trello. We keep track of our process on Trello.
 As soon as your course has been confirmed and contracted, a Trello board will be made for your course.
 
 ##I see my board but what does it mean?
-A course board is made up of different columns. Each column represents a new stage in the production process. The steps you should see will include:
+A course board is made up of different columns. Each column represents a new stage in the production process. 
 
-- Resources
+The steps you should see will include:
+
+###- Resources
+	- Each assets/lesson in a course is represented by a card. All information regarding the asset is available within the card. You can move cards to different sections to display where in the production process that card is currently found.
 - Assets in creation
 - Assets created
 - Code and slide review

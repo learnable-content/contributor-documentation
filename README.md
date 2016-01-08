@@ -35,7 +35,7 @@ Thanks,
    - [How to](https://github.com/learnable-content/contributor-documentation/blob/master/Contributors/Review-how-to.md) 
 - [Invoicing us](https://github.com/learnable-content/contributor-documentation/blob/master/Contributors/Invoicing.md)
 - [Community on Slack](https://github.com/learnable-content/contributor-documentation/blob/master/Contributors/Slack.md)
-- Documents
+- [Documents](https://github.com/learnable-content/contributor-documentation/blob/master/Contributors/Documents.md)
 
 # Teaching Assistants and Course Helpers
 - Role as a Teaching Assistant (TA)

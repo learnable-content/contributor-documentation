@@ -12,8 +12,9 @@ A course board is made up of different columns. Each column represents a new sta
 The steps you should see will include:
 
 ###- Resources
-	- Each assets/lesson in a course is represented by a card. All information regarding the asset is available within the card. You can move cards to different sections to display where in the production process that card is currently found.
-- Assets in creation
+  - Each assets/lesson in a course is represented by a card. All information regarding the asset is available within the card. You can move cards to different sections to display where in the production process that card is currently found.
+  
+###- Assets in creation
 - Assets created
 - Code and slide review
 - Ready to film

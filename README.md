@@ -8,7 +8,7 @@ Thanks,
 Angela and the SitePoint team.
 
 # Contributors
-- What we’re like
+- [What we’re like](https://github.com/learnable-content/contributor-documentation/blob/master/Contributors/Who-are-we.md)
 - [Pitching an idea](https://github.com/learnable-content/contributor-documentation/blob/master/Contributors/Pitch.md)
 - Screencasts
    - [What are they?](https://github.com/learnable-content/contributor-documentation/blob/master/Contributors/Screencasts.md)

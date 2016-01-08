@@ -5,7 +5,7 @@ This is a work in progress, so feel free to jump in and make suggestions or even
 
 Thanks,
 
-Angela and the SitePoint team.
+[Angela and the SitePoint team](https://github.com/learnable-content/contributor-documentation/blob/master/Contributors/Who-are-we.md).
 
 # Contributors
 - [Who are we?](https://github.com/learnable-content/contributor-documentation/blob/master/Contributors/Who-are-we.md)

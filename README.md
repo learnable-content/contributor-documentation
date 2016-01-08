@@ -29,8 +29,8 @@ Angela and the SitePoint team.
 - Code Repositories
    - Screencast Repositories
    - Courses Repositories
-- Technical reviews
-   - How to 
+- [Technical reviews](https://github.com/learnable-content/contributor-documentation/blob/master/Contributors/Review.md)
+   - [How to](https://github.com/learnable-content/contributor-documentation/blob/master/Contributors/Review-how-to.md) 
 - [Invoicing us](https://github.com/learnable-content/contributor-documentation/blob/master/Contributors/Invoicing.md)
 - Community
   - [Slack](https://github.com/learnable-content/contributor-documentation/blob/master/Contributors/Slack.md)

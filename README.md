@@ -6,6 +6,7 @@ This is a work in progress, so feel free to jump in and make suggestions or even
 Thanks,
 
 **[Angela and the SitePoint team](https://github.com/learnable-content/contributor-documentation/blob/master/Contributors/Who-are-we.md)**
+
 ![Sitepoint Premium logo](Contributors/Images/spp_3a3a3a.png)
 
 # Contributors

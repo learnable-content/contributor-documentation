@@ -28,9 +28,9 @@ Thanks,
    - [Recording guide](https://github.com/learnable-content/contributor-documentation/blob/master/Contributors/Recording.md)
    - [Sample video](https://github.com/learnable-content/contributor-documentation/blob/master/Contributors/Sample.md)
    - [Sending videos](https://github.com/learnable-content/contributor-documentation/blob/master/Contributors/SendingVideos.md)
-- Code Repositories
-   - Screencast Repositories
-   - Courses Repositories
+- [Code Repositories](https://github.com/learnable-content/contributor-documentation/blob/master/Contributors/CodeRepositories.md)
+   - [Screencast Repositories](https://github.com/learnable-content/contributor-documentation/blob/master/Contributors/ScreencastRepositories.md)
+   - [Courses Repositories](https://github.com/learnable-content/contributor-documentation/blob/master/Contributors/CourseRepositories.md)
 - [Technical reviews](https://github.com/learnable-content/contributor-documentation/blob/master/Contributors/Review.md)
    - [How to](https://github.com/learnable-content/contributor-documentation/blob/master/Contributors/Review-how-to.md) 
 - [Invoicing us](https://github.com/learnable-content/contributor-documentation/blob/master/Contributors/Invoicing.md)

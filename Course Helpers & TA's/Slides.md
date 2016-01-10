@@ -5,5 +5,7 @@ In the following you will find assets and templates you can utilize to keep a co
 Note: We are using "Helvetica" as the standard font for all of our slides.
 
 [Image Assets](style-guide/Assets)
+
 [PowerPoint Slides Template](style-guide/PowerPoint Template Slides.pptx)
+
 [Open Document Presentation Slides Template](style-guide\Open Document Presentation Template Slides.odp)

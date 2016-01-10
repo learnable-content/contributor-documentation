@@ -51,7 +51,7 @@ Thanks,
    - How to work on chapter markers
    - [How to create handouts](https://github.com/learnable-content/contributor-documentation/blob/master/Course%20Helpers%20%26%20TA's/Handouts.md)
       - [Handout images](https://github.com/learnable-content/contributor-documentation/blob/master/Course%20Helpers%20%26%20TA's/Hanout-images.md) 
-   - How to create slides
+   - [How to create slides](https://github.com/learnable-content/contributor-documentation/blob/master/Course%20Helpers%20%26%20TA's/Slides.md)
 - [Invoicing with Freshbooks](https://github.com/learnable-content/contributor-documentation/blob/master/Course%20Helpers%20%26%20TA's/Invoicing%20with%20Freshbooks.md)
    - [Managing your Freshbooks account] (https://github.com/learnable-content/contributor-documentation/blob/master/Course%20Helpers%20%26%20TA's/Managing_Freshbooks.md)
    - [Timing tasks](https://github.com/learnable-content/contributor-documentation/blob/master/Course%20Helpers%20%26%20TA's/Timingtasks.md)

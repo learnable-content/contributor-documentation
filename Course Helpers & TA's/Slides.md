@@ -4,5 +4,7 @@ All courses and screencasts at SitePoint need to be aligned with our style guide
 In the following you will find assets and templates you can utilize to keep a consistent design on your slides.
 
 [Image Assets]()
+
 [PowerPoint Slides Template]()
+
 [Open Document Presentation Slides Template]()

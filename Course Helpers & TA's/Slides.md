@@ -8,4 +8,4 @@ Note: We are using "Helvetica" as the standard font for all of our slides.
 
 [PowerPoint Slides Template](style-guide/PowerPoint Template Slides.pptx)
 
-[Open Document Presentation Slides Template](style-guide\Open Document Presentation Template Slides.odp)
+[Open Document Presentation Slides Template](style-guide/Open Document Presentation Template Slides.odp)

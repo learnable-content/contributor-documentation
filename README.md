@@ -38,7 +38,7 @@ Thanks,
 - [Documents](https://github.com/learnable-content/contributor-documentation/blob/master/Contributors/Documents.md)
 
 # Teaching Assistants and Course Helpers
-- Role as a Teaching Assistant (TA)
+- [Role as a Teaching Assistant (TA)](https://github.com/learnable-content/contributor-documentation/blob/master/Contributors/TA-role.md)
     - [How to respond to conversations](https://github.com/learnable-content/contributor-documentation/blob/master/Course%20Helpers%20%26%20TA's/Conversations.md)
     - Trello for TAs
 - Roles as a Course Helper

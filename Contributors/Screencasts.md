@@ -12,4 +12,4 @@ Collections are a compilation of screencasts that will help you learn as many th
 You can also create a series of screencast videos that will form its own collection. If you would like to develop a set of videos about a topic, you'll need to first develop a screencast series outline (link to outline here) to pitch your idea.
 
 ###Ready to create a screencast?
-Great! Read about pitch your idea here.
+Great! Read about [pitching your idea](https://github.com/learnable-content/contributor-documentation/blob/master/Contributors/Pitch.md) here.

@@ -6,7 +6,7 @@ When working on chapter markers, you will need to create the file from the capti
 
 ![Chapters](repo-screenshot-images/sample_markers.png)
 
-# Some rules with chapter marker:
+# Some rules with chapter markers:
 
 When creating a chapter marker (saving the original file) the naming convention should be similar to the captions; course name, chapter, lesson number and version number. An example of this: IntroGitChapter2.5v1
 You want to have a chapter marker at the very start of the video, e.g. 00:00:00.

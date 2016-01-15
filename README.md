@@ -40,7 +40,7 @@ Thanks,
 # Teaching Assistants and Course Helpers
 - [Role as a Teaching Assistant (TA)](https://github.com/learnable-content/contributor-documentation/blob/master/Contributors/TA-role.md)
     - [How to respond to conversations](https://github.com/learnable-content/contributor-documentation/blob/master/Course%20Helpers%20%26%20TA's/Conversations.md)
-    - Trello for TAs
+    - [Trello for TAs](https://github.com/learnable-content/contributor-documentation/blob/master/Course%20Helpers%20&%20TA's/Trello_for_TAs.md)
 - [Roles as a Course Helper](https://github.com/learnable-content/contributor-documentation/blob/master/Course%20Helpers%20%26%20TA's/Roles_as_a_course%20helper.md)
    - [Trello for screencasts](https://github.com/learnable-content/contributor-documentation/blob/master/Course%20Helpers%20&%20TA's/Trello_for_Screencasts.md)
    - [Trello for courses](https://github.com/learnable-content/contributor-documentation/blob/master/Course%20Helpers%20%26%20TA's/Trello_for_courses.md)

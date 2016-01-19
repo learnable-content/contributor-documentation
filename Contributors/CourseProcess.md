@@ -41,4 +41,4 @@ We ask that you create 5 questions for approximately every second course lesson 
 The questions are generally made up of true or false; or multiple choice questions. 
 
 ##6. Invoice us
-Congratulations, your course has been published! You can now send us an invoice for the agreed amount.
+Congratulations, your course has been published! You can now [send us an invoice](https://github.com/learnable-content/contributor-documentation/blob/master/Contributors/Invoicing.md) for the agreed amount.

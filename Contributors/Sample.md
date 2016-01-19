@@ -6,5 +6,3 @@ What you should include in your sample:
 
 - narration as if it were your final video
 - sample code via text editor or GUI that will be used in your screencast 
-
-Here's an example of a [sample video](https://digitalpigeon.com/shr/7TiGMKVBEeWORgbtG5M1VQ/N4ot3gzp3Y53Yx0s8yXFew?aid=Z39SkBMBEeSTKAYBQwrEJw)

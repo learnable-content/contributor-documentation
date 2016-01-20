@@ -30,4 +30,5 @@ When we look at the branches, we can see that we have `lesson1.1`, `lesson2.1`, 
 ![jQuery repo branches](Images/jQuery-repo-branches.png)
 
 Now let's take a look at an actual branch. This is `lesson1.1`, you can see that it contains a couple of .md files of information. This is an .md version of a branch handout. Basically it caters as our written content, everything that is discussed/mentioned in the lesson.
+
 ![jQuery repo branches](Images/jQuery-branch-contents.png)

@@ -1,6 +1,6 @@
 #Handout Images
 
-##What are handout images?
+##What are Handout Images?
 Handout images are basically banner images for each handout in a course. These images are very simple to create.
 
 
@@ -20,14 +20,14 @@ You can download a trial of Sketch at https://www.sketchapp.com/ *_Note: This ap
 
 ##Creating the handout image
 
-1. Next Open the document SP Premium Handouts_new.sketch file
+1. Next open the document SP Premium Handouts_new.sketch file
 ![Sketch](repo-screenshot-images/file-open.png)
 
 2. Once you have the file open look at the left of the screen, you will have Introduction to JavaScript as first option. You can use this course as a template on how each handout file is suppose to look.
 
 ![Sketch](repo-screenshot-images/left-screen.png)
 
-##Steps to create a handout image
+##Steps to Create a Handout Image
 
 1. Duplicate the Introduction to JavaScript folder.
 2. Rename it to the course you are working on.
@@ -39,14 +39,14 @@ You can download a trial of Sketch at https://www.sketchapp.com/ *_Note: This ap
 4. Rename lesson 1.1copy to 1.1
 ![Sketch](repo-screenshot-images/lesson-1.1.png)
 
-5. Next Change the Course Name, Change the Lesson  and Step to the correct one and the Teacher's name. **_Note In this example the Lesson would be Lesson 1 - Step 1_**
+5. Next, change the course name, change the lesson and step to the correct one, as well as the teacher's name. **_Note In this example the Lesson would be Lesson 1 - Step 1_**
 ![Sketch](repo-screenshot-images/handout-image.png)
 
 6. Then just duplicate 1.1 folder and rename it to the next in the lesson and do the same for the lesson and step on the image.
 
 ## Exporting
 
-When ready to say the file you go to File> Save. Then you are ready to export. Highlight each lesson file on the left as shown in the example.
+When ready to save the file, you go to File> Save. Then you are ready to export. Highlight each lesson file on the left as shown in the example.
 ![Sketch](repo-screenshot-images/highlight.png)
 Then on the  bottom right you see an export screen. Just hit export. **_Note Be sure to keep the size at 2x. We want the size to be 1190 width 260 height.
 

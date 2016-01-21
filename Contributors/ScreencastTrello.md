@@ -56,7 +56,7 @@ Once cards are in this column, they've been edited and being prepared for the si
 ##Live
 Once your card makes it into this column, it's been published. If you've just seen it make the move — Congratulations! It's now on our site.
 
-You can now send me an invoice.
+You can now [send me an invoice](https://github.com/learnable-content/contributor-documentation/blob/master/Contributors/Invoicing.md).
 
 #How and what?
 ##How to use Trello
@@ -75,8 +75,6 @@ Once you have converted your listed item into a card, it will automatically be l
 Once your card has been edited, it will be assigned a release date. This is shown on the bottom right corner of your screencast card.
 
 ##Labels on cards
-You may notice your card has a green or red strip, this is a label. Content on SitePoit Premium is mostly member only however there free content. Free content has a green label and is available for all SitePoint Premium visitors. This content will also be published as a SitePoint post. 
-
-Red labels represent member only content available only on SitePoint Premium.
+You may notice your card has a green or red strip; this is a label. Content on SitePoint Premium is mostly member only. However, there is some free content. Free content has a green label, and will be available for all SitePoint Premium visitors once made live. This content will also be published as a SitePoint post. Red labels represent member-only content which will be available only on SitePoint Premium.
 
 

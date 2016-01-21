@@ -1,6 +1,6 @@
-#Trello for courses
+#Trello for Courses
 
-They're usually a Trello board for every new course that SitePoint Premium has. If you are assigned to that course then Angela will make you a member of that board. Course helpers are usually in charge of captions, chapter markers, poster images, handout images, and creating the GitHub repos.
+There is usually a Trello board for every new course that SitePoint Premium has. If you are assigned to a course, then Angela will make you a member of that board. Course helpers are usually in charge of captions, chapter markers, poster images, handout images, and creating the GitHub repos.
 
 ##Video Posters
 When creating the video posters for the lesson be sure to drag each lesson into the card "Video poster in progress" when finished drag the finished lesson into the Video poster done and ready for builder. Be sure to attach all the images ( in a zip file) to the lesson card and let Angela know that the video posters are finished.
@@ -11,7 +11,6 @@ Once the course is ready for captions then the course lessons will be in the Rea
 
 Example of boards for Video Posters, and Captions
 ![Trello Board example 1](repo-screenshot-images/trello-board1.png)
-
 
 
 ##Chapter Markers

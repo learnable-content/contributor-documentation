@@ -1,6 +1,6 @@
 # SitePoint Premium Screencast Series Template
 
-![Sitepoint Premium logo](Contributors/Images/spp_3a3a3a.png)
+![Sitepoint Premium logo](Images/spp_3a3a3a.png)
 
 ## Basic Information
 

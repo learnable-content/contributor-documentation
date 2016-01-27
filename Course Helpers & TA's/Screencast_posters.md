@@ -54,5 +54,5 @@ If you click either *Image: for Web (JPG)* or *Image: for Web (JPG)*, it will do
 ##Next steps
 Next you'll have to attach the screencast images to their respective cards on the [SitePoint Short Videos](https://trello.com/b/5Pn9GZZR/sitepoint-short-videos) Trello board. Simply drag the poster image into the card.
 
-![Download drop-down list](repo-screenshot-images/Short-video-trello.png)
+![Download drop-down list](repo-screenshot-images/Short-Video-Trello.png)
 

@@ -16,7 +16,7 @@ Your conclusion should be similarly brief, wrap up what you did in one sentence.
 Once your screencast is complete, I'll add a short introduction and a title slide to your video before release.
 
 ##Tone and feel
-I know you're excited about creating your screencast, so let it show! Let your personality shine; smile, be passionate, be entusiastic and have a conversation with the viewer. Don't be scared to engage with the viewer, in fact we recommend it. Ask them to share their results, ask them for suggestions, ask for their opnions, drop in now and then and say hi. We also have Course Helpers who will also jump in and respond to discussions/conversations when you cant but starting a conversation and fostering enagagement and activity is great and something we want you to bring into your content. Our viewers will love you for it.  
+I know you're excited about creating your screencast, so let it show! Let your personality shine; smile, be passionate, be entusiastic and have a conversation with the viewer. Don't be scared to engage with the viewer, in fact we recommend it. Ask them to share their results, ask them for suggestions, ask for their opnions, drop in now and then and say hi. We also have Teaching Assistants who will jump in and respond to discussions/conversations when you can't, but starting a conversation and fostering enagagement and activity is great and something we want you to bring into your content. Our viewers will love you for it.  
 
 ##What to avoid
 Avoid having code or other important content placed at the bottom 1/6 of the video. We publish captions with all videos and it may interfere/clash with the caption text. Refer to the image below as an example. 

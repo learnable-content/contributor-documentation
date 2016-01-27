@@ -1,16 +1,14 @@
-#### How to set up a course repositories
+# How to Set Up a Course Repositories
 
-
-#### Creating the repository
+## Creating the Repository
 Go to the SitePoint Premium repository on Github — https://github.com/learnable-content. You may need permission to create the repository, if this is the case contact Angela. 
 *Note:  if you are creating the Github repository from scratch then name it with the course name (i.e. Modernizr 3)*
 
 
 ![Creating a Repo](repo-screenshot-images/creating-the_repo.png)
 
-#### After the repository is created
+## After the Repository is Created
 ![Repo Created](repo-screenshot-images/repo-created.png)
-
 
 * Initialize the repo through Github.com, commandline or a Git application (i.e. Source Tree)
 * **Create a Welcome Readme.md document for the Master Branch**
@@ -21,8 +19,7 @@ Go to the SitePoint Premium repository on Github — https://github.com/learnabl
   After the Readme.md file is created and you have committed it to the repo it will be shown on Github like this.
   ![ReadMe Created](repo-screenshot-images/readme-created.png)
 
-
-#### Create branches
+## Create Branches
 
 Creating a branch is fairly easy. You can use the commandline, Github.com or even a Git application to do this.
 
@@ -47,11 +44,10 @@ After you entered a new branch name, hit enter. You will immediately be taken to
 
 
 
-
-#### What goes into the branch
+## What Goes Into the Branch
 Each course will have code samples will be provided by the author of the course. The handout files are also provided and can be downloaded or forked at https://github.com/learnable-content/Course-Handouts. These handouts will need to go into each lesson branch of the course.
 
-#### Setting up
+##Setting Up
 
 * The master branch will have a readme.md.
 
@@ -62,8 +58,4 @@ Each course will have code samples will be provided by the author of the course.
 * Each lesson branch will have the readme and code sample. The readme file will be a copy of the handout file for that lesson.
 * Each lesson will have a folder that will have the lesson .md, .pdf and images for that lesson. **_i.e. Introduction to JavaScript's repo has Introduction_to_JavaScript_handouts as the folder where the lesson.md, pdf and images are stored._**
 https://github.com/learnable-content/introduction-to-javascript/tree/lesson1.2
-
-
-
-
 

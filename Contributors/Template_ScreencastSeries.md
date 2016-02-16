@@ -1,4 +1,4 @@
-# SitePoint Premium Screencast Series Template
+# SitePoint Premium Video Tutorial Series Template
 
 ![Sitepoint Premium logo](Images/spp_3a3a3a.png)
 
@@ -33,7 +33,7 @@ _____________________________________________________________
 3)_____________________________________________________________
 
 
-## Screencast Series Outline
+## Video Tutorial Series Outline
 *For the brief description, answer the question "What problem is this video solving?". For the longer one, remember that this may be used as the video's descriptive copy.*
 
 |Structure|Title|Brief Description|Description (Copy)|
@@ -44,9 +44,9 @@ _____________________________________________________________
 |Video 4  |     |                 |                  |
 |Video 5  |     |                 |                  |
 
-## Screencast Process
-If this is the first time you are creating screencasts for SitePoint then please note that once the initial outline has been confirmed, you will be required to send a sample video to Angela ([angela.molina@sitepoint.com](mailto:angela.molina@sitepoint.com)) via Digital Pigeon ([https://sitepoint-premium.digitalpigeon.com/rcv/send](https://sitepoint-premium.digitalpigeon.com/rcv/send)). 
+## Video Tutorial Process
+If this is the first time you are creating video tutorials for SitePoint then please note that once the initial outline has been confirmed, you will be required to send a sample video to Angela ([angela.molina@sitepoint.com](mailto:angela.molina@sitepoint.com)) via Digital Pigeon ([https://sitepoint-premium.digitalpigeon.com/rcv/send](https://sitepoint-premium.digitalpigeon.com/rcv/send)). 
 
-Once the video has been reviewed, you may start working on your first screencast. You will be expected to send a video a week until your batch of videos have been completed. If you run into any trouble or delays in this process, please notify Angela or Ophelie ([ophelie@sitepoint](mailto:ophelie@sitepoint)) as soon as possible.
+Once the video has been reviewed, you may start working on your first video tutorial. You will be expected to send a video a week until your batch of videos have been completed. If you run into any trouble or delays in this process, please notify Angela or Ophelie ([ophelie@sitepoint](mailto:ophelie@sitepoint)) as soon as possible.
 
 Happy planning!

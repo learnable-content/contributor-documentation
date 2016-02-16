@@ -1,18 +1,18 @@
-#Screencast Repositories
+#Video Tutorial Repositories
 
-We use GitHub for all screencasts code samples. All contributors will be provided with their own repository. For every screencast containing code samples, a branch should be made. 
+We use GitHub for all video tutorials code samples. All contributors will be provided with their own repository. For every video tutorial containing code samples, a branch should be made. 
 
-All branches in a contributor repo should contain the code needed for a screencast. The branch should be labelled in a way that makes it clear which screencast it's contributing towards.
+All branches in a contributor repo should contain the code needed for a video tutorial. The branch should be labeled in a way that makes it clear which video tutorial it's contributing towards.
 
-An example of this can be see with Ashraff's screencast repository.
+An example of this can be see with Ashraff's video tutorial repository.
 
-![Ashraff's screencast repository](Images/Ashraff-repo.png)
+![Ashraff's video tutorial repository](Images/Ashraff-repo.png)
 
-Each screencast created by Ashraff has a new branch made that contains the screencast sample code. They're labelled clearly so they can easily identify which screencast the branch relates to.
+Each video tutorial created by Ashraff has a new branch made that contains the video tutorial sample code. They're labeled clearly so they can easily identify which video tutorial the branch relates to.
 
-![Ashraff's screencast repository](Images/Ashraff-branches.png)
+![Ashraff's video tutorial repository](Images/Ashraff-branches.png)
 
-The contents of the screencast has a .md file with a brief description of the branch contents. It also contains the code sample for the screencast.
+The contents of the video tutorial has a .md file with a brief description of the branch contents. It also contains the code sample for the video tutorial.
 
-![Ashraff's screencast repository](Images/Ashraff-screencast-content.png)
+![Ashraff's video tutorial repository](Images/Ashraff-screencast-content.png)
 

@@ -1,7 +1,7 @@
 #Course Process
 
 ##1. Pitch Your Idea
-You would've worked with us on screencasts and ready to work on a course. Great! What's your course idea? Let us know, and if we like it we'll ask you to create a course outline. 
+You would've worked with us on video tutorials and ready to work on a course. Great! What's your course idea? Let us know, and if we like it we'll ask you to create a course outline. 
 
 ##2. Course Outline
 We want to see how your idea translates into a course. Please complete an outline and make it as descriptive as you can. An outline includes a description of the course, a course syllabus breaking down the lessons and steps per lesson. 
@@ -13,7 +13,7 @@ We will provide you with a document to use. Once your outline is complete and ap
 ##3. Create Your Code Sample
 We like to keep all code samples in the one spot. Once you're ready to start creating code samples, we will set you up with a GitHub repository for your course. 
 
-This repository is set up differently to screencasts, please make sure you're familiar with the way we arrange our course code samples.
+This repository is set up differently to video tutorials, please make sure you're familiar with the way we arrange our course code samples.
 
 ##4. Create Slides
 If you need slides created for your course, we can arrange to have them made. Send over a copy of your slides with a simple layout; black text on a white background. 
